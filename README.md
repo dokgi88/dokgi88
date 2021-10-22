@@ -1,4 +1,6 @@
 ### Hi there 👋
+![Objective-C](https://img.shields.io/badge/Objective--C-A8B9CC.svg?&style=flat-square&logo=C&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343.svg?&style=flat-square&logo=Swift&logoColor=white)
 
 <!--
 **dokgi88/dokgi88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
