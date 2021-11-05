@@ -12,7 +12,7 @@
 ![Realm](https://img.shields.io/badge/Realm-39477F.svg?&style=flat-square&logo=Realm&logoColor=white)
 ![Sourcetree](https://img.shields.io/badge/Sourcetree-0052CC.svg?&style=flat-square&logo=Sourcetree&logoColor=white)
 <br />
-![dokgi88 GitHub stats](https://github-readme-stats.vercel.app/api?username=dokgi88&show_icons=true&theme=gruvbox&count_private=true)
+![dokgi88 GitHub stats](https://github-readme-stats.vercel.app/api?username=dokgi88&show_icons=true&theme=gruvbox&count_private=true&border_radius=0&custom_title=sumin's%20Github%20Stats%20----------------------------------------)
 <br />
 
 <!--
