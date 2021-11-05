@@ -4,7 +4,7 @@
 <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/objective-c/objective-c.png"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg"></code> -->
 
-![iOS](https://img.shields.io/badge/iOS-000000.svg?&style=flat-square&logo=Apple&logoColor=white)
+<!-- ![iOS](https://img.shields.io/badge/iOS-000000.svg?&style=flat-square&logo=Apple&logoColor=white) -->
 ![Swift](https://img.shields.io/badge/Swift-FA7343.svg?&style=flat-square&logo=Swift&logoColor=white)
 ![Objective-C](https://img.shields.io/badge/Objective--C-CFA069.svg?&style=flat-square&logo=C&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-00A551.svg?&style=flat-square&logo=GitHubActions&logoColor=white)
